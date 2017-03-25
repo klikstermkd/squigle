@@ -12,6 +12,8 @@
 - If the maximum amount of notifications is reached, older notifications are
 grouped into one.
 
+See it in action! https://squigle-rtvbyvabzo.now.sh
+
 
 ## Installing
 
