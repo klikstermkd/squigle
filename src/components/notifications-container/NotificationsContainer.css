@@ -1,0 +1,15 @@
+.notifications-container {
+  position: fixed;
+  top: 25px;
+  right: 25px;
+  z-index: 100;
+  width: 260px;
+}
+
+.notifications-container-grouped {
+  max-height: 200px;
+  overflow-y: auto;
+  padding-top: 20px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+}

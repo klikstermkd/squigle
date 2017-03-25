@@ -1,0 +1,22 @@
+{
+  "name": "squigle",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "enzyme": "2.7.1",
+    "react-addons-test-utils": "15.4.2",
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "normalize.css": "5.0.0",
+    "react": "15.4.2",
+    "react-dom": "15.4.2",
+    "uuid": "3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
