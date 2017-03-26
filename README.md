@@ -1,6 +1,6 @@
 ## Squigle &middot; [![Build Status](https://travis-ci.org/klikstermkd/squigle.svg?branch=master)](https://travis-ci.org/klikstermkd/squigle)
 
-> React component for displaying notifications.
+> React component for displaying notifications. [View Demo.](https://squigle-rtvbyvabzo.now.sh/)
 
 
 ## Features
@@ -11,8 +11,6 @@
 - It displays maximum 5 notifications at the same time.
 - If the maximum amount of notifications is reached, older notifications are
 grouped into one.
-
-See it in action! https://squigle-rtvbyvabzo.now.sh
 
 
 ## Installing
